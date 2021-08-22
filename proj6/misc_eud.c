@@ -5,7 +5,7 @@
 
 MODULE_AUTHOR("Mark");
 MODULE_LICENSE("GPL");
-MODULE_DESCRIPTION("misc_eud: proj 7 module.");
+MODULE_DESCRIPTION("misc_eud: proj 6 module.");
 
 static int misc_open(struct inode*, struct file*);
 static int misc_release(struct inode*, struct file*);
